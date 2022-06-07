@@ -1,0 +1,8 @@
+utf-8 winding
+https://www.w3schools.com/charsets/ref_utf_misc_symbols.asp
+
+Used in the component checkout-item.js for remove icon:
+
+<div className='remove-button'>
+    &#10005;
+</div>
